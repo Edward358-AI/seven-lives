@@ -1,6 +1,8 @@
 # Seven-Lives
 A simple linguistics word-guessing game!
 # Updates (most recent at top)
+### Update v0.2.2
+- A minor bug in quitting or playing again, fixed
 ### Update v0.2.1
 - Bug fixes
 - Better system for fault tolerance
