@@ -103,7 +103,7 @@ while True: # main loop of the program
         write("You lost! The secret word was " + secret_word)
     time.sleep(1.25)
     play_again = input("Play again [yes/no]? ") # asks user to play again
-    if play_again.lower() == 'no' or 'n': # quits program
+    if play_again.lower() == 'no' play_again.lower() == 'n': # quits program
         break
     else: # returns to start
         clear()
